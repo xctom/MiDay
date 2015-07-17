@@ -3,15 +3,15 @@ MiDay is a new way to record your day. This version is a prototype of the exact 
 
 - MiDay highly encourage you to upload a picture to represent the theme of your day. In turn when you want to go back in time with pictures, instead of your journal titles, you could comfortably view your history of pictures, and go back to the details related to that picture.
 
-<img src="https://github.com/xctom/MiDay/blob/master/img/Screen-Shot-MainMenu.png" width="250" />
-<img src="https://github.com/xctom/MiDay/blob/master/img/Screen-Shot-Gallery.png" width="250" />
-<img src="https://github.com/xctom/MiDay/blob/master/img/Screen-Shot-JournalDetail.png" width="250" />
+<img src="https://github.com/xctom/MiDay/blob/master/img/Screen-Shot-MainMenu.png" width="220" />
+<img src="https://github.com/xctom/MiDay/blob/master/img/Screen-Shot-Gallery.png" width="220" />
+<img src="https://github.com/xctom/MiDay/blob/master/img/Screen-Shot-JournalDetail.png" width="220" />
 
 - Each journal records your location and weather automatically, however, you could remove those options as you wish. 
 - You can track all the journals you have entered on a map, and locate all journals that entered in that area.
 
-<img src="https://github.com/xctom/MiDay/blob/master/img/Screen-Shot-Weathers.png" width="500">
-<img src="https://github.com/xctom/MiDay/blob/master/img/Screen-Shot-Map.png" width="225">
+<img src="https://github.com/xctom/MiDay/blob/master/img/Screen-Shot-Weathers.png" width="400">
+<img src="https://github.com/xctom/MiDay/blob/master/img/Screen-Shot-Map.png" width="180">
 
 - You can also choose the tags you have pre set up in the tags view, and tag that journal related to those themes. This will allow you to quickly locate the journals you want to find in the future. 
  
