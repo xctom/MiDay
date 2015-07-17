@@ -1,0 +1,25 @@
+//
+//  PrefixHeader.pch
+//  MiDay
+//
+//  Created by xuchen on 3/5/15.
+//  Copyright (c) 2015 __ChenXu_MingYangYu__. All rights reserved.
+//
+
+#ifndef MiDay_PrefixHeader_pch
+#define MiDay_PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+/** Debug log for `Run` scheme */
+#ifdef DEBUG
+#   define DLog(fmt, ...) printf(">>>>> %s ...... \t%s[Line %d]\n",[[NSString stringWithFormat:fmt, ##__VA_ARGS__] UTF8String],__PRETTY_FUNCTION__, __LINE__);
+#else
+#   define DLog(...)
+#endif
+
+//constant for map
+#define METERS_PER_MILE 1609
+
+#endif
